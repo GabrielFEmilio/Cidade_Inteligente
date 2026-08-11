@@ -3,7 +3,7 @@
 using namespace std;
 
 struct City {
-    string city;
+    string city, name_neighborhood, name_street;
 };
 
 struct Login {
